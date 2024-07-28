@@ -18,6 +18,7 @@ Example 1:
 
 Input: columnTitle = "A"
 Output: 1
+
 Example 2:
 
 Input: columnTitle = "AB"
