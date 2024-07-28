@@ -25,6 +25,7 @@ Example 2:
 Input: columnTitle = "AB"
 Output: 28
 
+
 Example 3:
 
 Input: columnTitle = "ZY"
